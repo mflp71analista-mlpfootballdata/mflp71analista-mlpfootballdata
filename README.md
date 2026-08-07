@@ -26,7 +26,7 @@
       </p>
     </td>
     <td width="33%" valign="top">
-      <h3 align="center">🎨 Visualización Táctica</h3>
+      <h3 align="center">🎨 Visualización</h3>
       <p align="center"><b>Radares & Grids de Percentiles</b></p>
       <p>Módulos en Python para la generación de gráficos de radar comparativos (PyPizza) y paneles de percentiles individuales orientados a informes de scouting.</p>
       <p><b>Tech Stack:</b> <code>Python</code> <code>PyPizza</code> <code>Matplotlib</code> <code>Seaborn</code></p>
