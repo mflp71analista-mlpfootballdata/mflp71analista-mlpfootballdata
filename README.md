@@ -8,7 +8,7 @@
 <table>
   <tr>
     <td width="50%" valign="top">
-      <h3 align="center">⚽ MLPFootballData — Player Similarity Engine</h3>
+      <h3 align="center">⚽ MLPFootballData — Jugadores Similares</h3>
       <p>Aplicación web interactiva que permite a direcciones deportivas y secretarías técnicas identificar perfiles estadísticos similares y buscar sustitutos de jugadores mediante métricas por 90 minutos y algoritmos de distancia.</p>
       <p><b>Tech Stack:</b> <code>Python</code> <code>Streamlit</code> <code>Pandas</code> <code>Scikit-Learn</code> <code>Wyscout</code></p>
       <p align="center">
@@ -16,7 +16,7 @@
       </p>
     </td>
     <td width="50%" valign="top">
-      <h3 align="center">⚙️ Scouting Engine & Data Processing</h3>
+      <h3 align="center">⚙️ Scouting y Procesado de Datos</h3>
       <p>Conjunto de herramientas en Python para escalado de coordenadas multi-proveedor, modelos de scoring por posición con pesos, percentiles/Z-Score y análisis predictivo.</p>
       <p><b>Tech Stack:</b> <code>Python</code> <code>Pandas</code> <code>Scikit-Learn</code> <code>NumPy</code> <code>Wyscout</code></p>
       <p align="center">
