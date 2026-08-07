@@ -17,7 +17,7 @@
       </p>
     </td>
     <td width="33%" valign="top">
-      <h3 align="center">⚙️ Scouting </h3>
+      <h3 align="center">⚙️ Scouting & ML</h3>
       <p align="center"><b>Procesamiento, ML & Scoring</b></p>
       <p>Herramientas en Python con algoritmos de Clustering (SKLearn), Cosine Similarity, cdist, modelos de scoring ponderados por posición y predicción.</p>
       <p><b>Tech Stack:</b> <code>Python</code> <code>Pandas</code> <code>Scikit-Learn</code> <code>Wyscout</code></p>
@@ -26,7 +26,7 @@
       </p>
     </td>
     <td width="33%" valign="top">
-      <h3 align="center">🎨 Visualización</h3>
+      <h3 align="center">🎨 Visualización </h3>
       <p align="center"><b>Radares & Grids de Percentiles</b></p>
       <p>Módulos en Python para la generación de gráficos de radar comparativos (PyPizza) y paneles de percentiles individuales orientados a informes de scouting.</p>
       <p><b>Tech Stack:</b> <code>Python</code> <code>PyPizza</code> <code>Matplotlib</code> <code>Seaborn</code></p>
