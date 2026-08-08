@@ -34,6 +34,14 @@
         <a href="https://github.com/mflp71analista-mlpfootballdata/Football-Data-Visualization-Gallery">💻 Ver Proyecto</a>
       </p>
     </td>
+    <td width="50%" valign="top">
+      <h3 align="center">📊 Power BI — Análisis de Equipo propio y Equipo Rival</h3>
+      <p>Dashboard interactivo para análisis colectivo por fases (Defensa, Transición, Ataque), radar charts dinámicos, matrices de duelos, clasificación esperada (xPTS) y modelo de % de victoria.</p>
+      <p><b>Tech Stack:</b> <code>Power BI</code> <code>DAX</code> <code>Power Query</code> <code>Radar Chart</code></p>
+      <p align="center">
+        <a href="https://github.com/mflp71analista-mlpfootballdata/PowerBI-Football-Match-Analysis-Dashboard">💻 Ver Proyecto</a>
+  </p>
+</td>
   </tr>
 </table>
 
