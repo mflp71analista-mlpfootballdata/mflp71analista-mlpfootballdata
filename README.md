@@ -19,8 +19,8 @@ Analista de datos especializado en fútbol profesional, visualización táctica 
       </p>
     </td>
     <td width="50%" valign="top">
-      <h3 align="center">📊 Power BI Match Analysis</h3>
-      <p align="center"><b>Análisis de Partidos & Rival Intelligence</b></p>
+      <h3 align="center">📊 Power BI Análisis de partidos</h3>
+      <p align="center"><b>Análisis de Equipo propio y Equipo rival</b></p>
       <p>Dashboard interactivo para análisis colectivo por fases (Defensa, Transición, Ataque), radar charts dinámicos, matrices de duelos, clasificación esperada (xPTS) y modelo de % de victoria.</p>
       <p><b>Tech Stack:</b> <code>Power BI</code> <code>DAX</code> <code>Power Query</code> <code>Radar Chart</code></p>
       <p align="center">
