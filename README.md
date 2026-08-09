@@ -71,7 +71,7 @@ Analista de datos especializado en fútbol profesional, visualización táctica 
 * **Business Intelligence & Data Viz:** Power BI Desktop, DAX avanzado, Power Query (M), Streamlit.
 * **Lenguajes & Librerías Analytics:** Python (Pandas, NumPy, Scikit-Learn, Matplotlib, Seaborn, PyPizza).
 * **Ingeniería de Datos & Automatizaciones:** Integración de fuentes XML/JSON, canalizaciones en Power Automate, Web Scraping (Selenium).
-* **Proveedores & Datasets Deportivos:** Wyscout, StatsBomb, FBref, Opta.
+* **Proveedores & Datasets Deportivos:** Wyscout, StatsBomb, FBref, Opta, Drilab.
 
 ---
 
