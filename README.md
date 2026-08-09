@@ -30,7 +30,7 @@ Analista de datos especializado en fútbol profesional, visualización táctica 
   </tr>
   <tr>
     <td width="50%" valign="top">
-      <h3 align="center">⚙️ Scouting Proceso de Datos/h3>
+      <h3 align="center">⚙️ Scouting Proceso de Datos</h3>
       <p align="center"><b>Procesamiento, ML & Scoring</b></p>
       <p>Librería interna en Python con algoritmos de Clustering (SKLearn), Cosine Similarity, cdist, modelos de scoring ponderados por posición y normalización de datasets deportivos.</p>
       <p><b>Tech Stack:</b> <code>Python</code> <code>Pandas</code> <code>Scikit-Learn</code> <code>Wyscout</code> <code>StatsBomb</code></p>
