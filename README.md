@@ -55,7 +55,7 @@ Analista de datos especializado en fútbol profesional, visualización táctica 
       <p>Cuadro de mando interactivo con menús por demarcación, rankings relativos por Z-Score, matrices de dispersión, radar charts spider multi-jugador, ficha individual y proyección temporal.</p>
       <p><b>Tech Stack:</b> <code>Power BI</code> <code>DAX</code> <code>Power Query</code> <code>Wyscout</code></p>
       <p align="center">
-        <a href="https://github.com/mflp71analista-mlpfootballdata/Power-BI-Scouting-y-Analisis-de-Jugadores">💻 Ver Proyecto</a>
+        <a href="https://github.com/mflp71analista-mlpfootballdata/PowerBI_Scouting_AnalisisJugadores">💻 Ver Proyecto</a>
       </p>
     </td>
     <td width="50%" valign="top">
