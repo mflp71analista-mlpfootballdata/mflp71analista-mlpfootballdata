@@ -39,13 +39,27 @@ Analista de datos especializado en fútbol profesional, visualización táctica 
       </p>
     </td>
     <td width="50%" valign="top">
-      <h3 align="center">📊 Power BI Análisis de partidos</h3>
-      <p align="center"><b>Análisis de Equipo propio y Equipo rival</b></p>
+      <h3 align="center">📊 Power BI Análisis de Partidos</h3>
+      <p align="center"><b>Análisis de Equipo Propio y Rival</b></p>
       <p>Dashboard interactivo para análisis colectivo por fases (Defensa, Transición, Ataque), radar charts dinámicos, matrices de duelos, clasificación esperada (xPTS) y modelo de % de victoria.</p>
       <p><b>Tech Stack:</b> <code>Power BI</code> <code>DAX</code> <code>Power Query</code> <code>Radar Chart</code></p>
       <p align="center">
         <a href="https://github.com/mflp71analista-mlpfootballdata/PowerBI_FutbolProfesional">💻 Ver Proyecto</a>
       </p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3 align="center">📋 Power BI Scouting y Análisis de Jugadores</h3>
+      <p align="center"><b>Sistema Avanzado de Scouting & Perfiles</b></p>
+      <p>Cuadro de mando interactivo con menús por demarcación, rankings relativos por Z-Score, matrices de dispersión, radar charts spider multi-jugador, ficha individual y proyección temporal.</p>
+      <p><b>Tech Stack:</b> <code>Power BI</code> <code>DAX</code> <code>Power Query</code> <code>Wyscout</code></p>
+      <p align="center">
+        <a href="https://github.com/mflp71analista-mlpfootballdata/Power-BI-Scouting-y-Analisis-de-Jugadores">💻 Ver Proyecto</a>
+      </p>
+    </td>
+    <td width="50%" valign="top">
+      <!-- Espacio reservado para un próximo proyecto -->
     </td>
   </tr>
 </table>
