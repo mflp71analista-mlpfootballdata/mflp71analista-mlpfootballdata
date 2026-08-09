@@ -24,7 +24,7 @@ Analista de datos especializado en fútbol profesional, visualización táctica 
       <p>Dashboard interactivo para análisis colectivo por fases (Defensa, Transición, Ataque), radar charts dinámicos, matrices de duelos, clasificación esperada (xPTS) y modelo de % de victoria.</p>
       <p><b>Tech Stack:</b> <code>Power BI</code> <code>DAX</code> <code>Power Query</code> <code>Radar Chart</code></p>
       <p align="center">
-        <a href="https://github.com/mflp71analista-mlpfootballdata/PowerBI-Football-Match-Analysis-Dashboard">💻 Ver Proyecto</a>
+        <a href="https://github.com/mflp71analista-mlpfootballdata/PowerBI_FutbolProfesional">💻 Ver Proyecto</a>
       </p>
     </td>
   </tr>
