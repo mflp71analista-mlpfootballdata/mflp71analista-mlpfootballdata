@@ -38,6 +38,8 @@ Analista de datos especializado en fútbol profesional, visualización táctica 
         <a href="https://github.com/mflp71analista-mlpfootballdata/Visualizacion_Datos">💻 Ver Proyecto</a>
       </p>
     </td>
+  </tr>
+  <tr>
     <td width="50%" valign="top">
       <h3 align="center">📊 Power BI Análisis de partidos</h3>
       <p align="center"><b>Análisis de Equipo propio y Equipo rival</b></p>
@@ -47,6 +49,7 @@ Analista de datos especializado en fútbol profesional, visualización táctica 
         <a href="https://github.com/mflp71analista-mlpfootballdata/PowerBI_FutbolProfesional">💻 Ver Proyecto</a>
       </p>
     </td>
+    
   </tr>
 </table>
 
