@@ -39,12 +39,12 @@ Analista de datos especializado en fútbol profesional, visualización táctica 
       </p>
     </td>
     <td width="50%" valign="top">
-      <h3 align="center">🎨 Visualización Táctica</h3>
+      <h3 align="center">🎨 Visualizaciones de Datos</h3>
       <p align="center"><b>Radares & Grids de Percentiles</b></p>
       <p>Módulos en Python para la generación de gráficos de radar comparativos (PyPizza), mapas de eventos tácticos y paneles visuales de percentiles individuales orientados a informes de scouting.</p>
       <p><b>Tech Stack:</b> <code>Python</code> <code>PyPizza</code> <code>Matplotlib</code> <code>Seaborn</code></p>
       <p align="center">
-        <a href="https://github.com/mflp71analista-mlpfootballdata/Football-Data-Visualization-Gallery">💻 Ver Proyecto</a>
+        <a href="https://github.com/mflp71analista-mlpfootballdata/Visualizacion_Datos">💻 Ver Proyecto</a>
       </p>
     </td>
   </tr>
