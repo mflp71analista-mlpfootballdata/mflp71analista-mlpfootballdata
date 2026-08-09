@@ -18,6 +18,15 @@ Analista de datos especializado en fútbol profesional, visualización táctica 
         <a href="https://github.com/mflp71analista-mlpfootballdata/MLPFootballData">💻 Ver Proyecto</a>
       </p>
     </td>
+    <td width="50%" valign="top">
+      <h3 align="center">📊 Power BI Análisis de partidos</h3>
+      <p align="center"><b>Análisis de Equipo propio y Equipo rival</b></p>
+      <p>Dashboard interactivo para análisis colectivo por fases (Defensa, Transición, Ataque), radar charts dinámicos, matrices de duelos, clasificación esperada (xPTS) y modelo de % de victoria.</p>
+      <p><b>Tech Stack:</b> <code>Power BI</code> <code>DAX</code> <code>Power Query</code> <code>Radar Chart</code></p>
+      <p align="center">
+        <a href="https://github.com/mflp71analista-mlpfootballdata/PowerBI_FutbolProfesional">💻 Ver Proyecto</a>
+      </p>
+    </td>
   </tr>
   <tr>
     <td width="50%" valign="top">
@@ -38,18 +47,6 @@ Analista de datos especializado en fútbol profesional, visualización táctica 
         <a href="https://github.com/mflp71analista-mlpfootballdata/Visualizacion_Datos">💻 Ver Proyecto</a>
       </p>
     </td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top">
-      <h3 align="center">📊 Power BI Análisis de partidos</h3>
-      <p align="center"><b>Análisis de Equipo propio y Equipo rival</b></p>
-      <p>Dashboard interactivo para análisis colectivo por fases (Defensa, Transición, Ataque), radar charts dinámicos, matrices de duelos, clasificación esperada (xPTS) y modelo de % de victoria.</p>
-      <p><b>Tech Stack:</b> <code>Power BI</code> <code>DAX</code> <code>Power Query</code> <code>Radar Chart</code></p>
-      <p align="center">
-        <a href="https://github.com/mflp71analista-mlpfootballdata/PowerBI_FutbolProfesional">💻 Ver Proyecto</a>
-      </p>
-    </td>
-    
   </tr>
 </table>
 
