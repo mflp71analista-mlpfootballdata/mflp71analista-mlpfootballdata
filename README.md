@@ -21,7 +21,7 @@ Analista de datos especializado en fútbol profesional, visualización táctica 
     <td width="50%" valign="top">
       <h3 align="center">⚙️ Scouting Proceso de Datos</h3>
       <p align="center"><b>Procesamiento, ML & Scoring</b></p>
-      <p>Librería interna en Python con algoritmos de Clustering (SKLearn), Cosine Similarity, cdist, modelos de scoring ponderados por posición y normalización de datasets deportivos.</p>
+      <p>Librería interna en Python con algoritmos de Clustering (SKLearn), Cosine Similarity, cdist, modelos de scoring ponderados por posición y normalización de datasets deportivos. Categorizar métricas como, por ejemplo, Pases Progresivos, Recuperaciones rápidas o calcular agregados.</p>
       <p><b>Tech Stack:</b> <code>Python</code> <code>Pandas</code> <code>Scikit-Learn</code> <code>Wyscout</code> <code>StatsBomb</code></p>
       <p align="center">
         <a href="https://github.com/mflp71analista-mlpfootballdata/Scouting_Proceso_Datos">💻 Ver Proyecto</a>
