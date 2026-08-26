@@ -10,7 +10,7 @@ Analista de datos especializado en fútbol profesional, visualización táctica 
 <table>
   <tr>
     <td width="50%" valign="top">
-      <h3 align="center">⚽ MLPFootballData</h3>
+      <h3 align="center">⚽ MLPFD_ScoutingPro</h3>
       <p align="center"><b>Motor de Similitud de Jugadores</b></p>
       <p>Aplicación web interactiva en Streamlit para detectar perfiles estadísticos similares y buscar sustitutos de mercado mediante métricas por 90 minutos y algoritmos de distancia espacial.</p>
       <p><b>Tech Stack:</b> <code>Python</code> <code>Streamlit</code> <code>Pandas</code> <code>Scikit-Learn</code></p>
