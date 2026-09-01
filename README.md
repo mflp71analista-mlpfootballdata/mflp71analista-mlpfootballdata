@@ -77,5 +77,11 @@ Analista de datos especializado en fútbol profesional, visualización táctica 
 
 📫 **Contacto:** [mflp71.analista@gmail.com](mailto:mflp71.analista@gmail.com) | [LinkedIn](https://linkedin.com/in/manuelflp71)
 
+---
 
 ![Contador de visitas](https://visitor-badge.laobi.icu/badge?page_id=mlp71analista.mlpfootballdata)
+
+---
+
+![Estadísticas de mi perfil](https://github-readme-stats.vercel.app/api?username=mflp71analista&show_icons=true&theme=radical&include_all_commits=true&count_private=true)
+
