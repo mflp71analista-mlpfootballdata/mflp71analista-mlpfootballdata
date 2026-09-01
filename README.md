@@ -79,7 +79,7 @@ Analista de datos especializado en fútbol profesional, visualización táctica 
 
 ---
 
-![Visitas](https://visitor-badge.laobi.icu/badge?page_id=mflp71analista-mlpfootballdata&right_color=blue)
+![Visitas](https://visitor-badge.laobi.icu/badge?page_id=mflp71analista&right_color=blue)
 
 ---
 
