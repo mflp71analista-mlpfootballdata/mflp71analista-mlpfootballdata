@@ -79,9 +79,5 @@ Analista de datos especializado en fútbol profesional, visualización táctica 
 
 ---
 
-![Contador de visitas](https://visitor-badge.laobi.icu/badge?page_id=mlp71analista.mlpfootballdata)
-
----
-
-![Estadísticas de mi perfil](https://github-readme-stats.vercel.app/api?username=mflp71analista&show_icons=true&theme=radical&include_all_commits=true&count_private=true)
+![Contador de visitas](https://visitor-badge.laobi.icu/badge?page_id=Mlp71analista.Mlp71analista)
 
