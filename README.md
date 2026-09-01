@@ -79,13 +79,13 @@ Analista de datos especializado en fútbol profesional, visualización táctica 
 
 ---
 
-![Contador de visitas] (https://kometa.analytics.org/badge?username=mlp71analista)
+![Contador de visitas](https://kometa.analytics.org/badge?username=mlp71analista)
 
 ---
 
-![Visitas] (https://visitor-badge.laobi.icu/badge?page_id=mlp71analista.mlp71analista&right_color=blue)
+![Visitas](https://visitor-badge.laobi.icu/badge?page_id=mlp71analista.mlp71analista&right_color=blue)
 
 ---
 
-![Contador de visitas] (https://visitor-badge.laobi.icu/badge?page_id=mlp71analista.mlp71analista)
+![Contador de visitas](https://visitor-badge.laobi.icu/badge?page_id=mlp71analista.mlp71analista)
 
