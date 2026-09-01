@@ -83,5 +83,5 @@ Analista de datos especializado en fútbol profesional, visualización táctica 
 
 ---
 
-![Estadísticas de mi perfil](https://github-readme-stats.vercel.app/api?username=mflp71analista&show_icons=true&theme=radical)
+![Estadísticas](https://github-readme-stats.vercel.app/api?username=mflp71analista&show_icons=true&theme=radical)
 
