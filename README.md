@@ -77,6 +77,8 @@ Analista de datos especializado en fútbol profesional, visualización táctica 
 
 📫 **Contacto:** [mflp71.analista@gmail.com](mailto:mflp71.analista@gmail.com) | [LinkedIn](https://linkedin.com/in/manuelflp71)
 
+---
+
 [![PL-300 Microsoft Power BI Data Analyst](https://img.shields.io/badge/Microsoft_Certified-Power_BI_Data_Analyst-blue?style=for-the-badge&logo=microsoft&logoColor=white)](https://github.com/mflp71analista-mlpfootballdata/mflp71analista-mlpfootballdata/blob/main/Certificaci%C3%B3n_PL300.png)
 
 
