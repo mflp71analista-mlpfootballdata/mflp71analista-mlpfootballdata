@@ -76,10 +76,7 @@ Analista de datos especializado en fútbol profesional, visualización táctica 
 ---
 
 📫 **Contacto:** [mflp71.analista@gmail.com](mailto:mflp71.analista@gmail.com) | [LinkedIn](https://linkedin.com/in/manuelflp71)
-<br>
-<p>
-  <a href="URL_DE_TU_CERTIFICADO_O_CREDLY">
-    <img src="https://learn.microsoft.com/api/credentials/share/es-es/ManuelLima-5395/3C280BFB1115306B?sharingId=F1119B36357D02EC" alt="PL-300 Microsoft Power BI Data Analyst">
-  </a>
-</p>
+
+[![PL-300 Microsoft Power BI Data Analyst](https://learn.microsoft.com/api/credentials/share/es-es/ManuelLima-5395/3C280BFB1115306B?sharingId=F1119B36357D02EC?style=for-the-badge&logo=microsoft&logoColor=white)](https://www.credly.com/)
+
 
